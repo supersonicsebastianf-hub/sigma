@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <h1>
+            My first website
+        </h1>
+    </header>
+    <body>
+       I'm the smartest person in the world
+    </body>
+</html>
